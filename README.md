@@ -10,4 +10,7 @@ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift
 
 for enternt check type lshw -C network
   https://askubuntu.com/questions/1259947/cant-get-rtl8125b-working-on-20-04
+  
+  fix dual monitor bag
+  https://ashley-tharp.medium.com/ubuntu-18-04b-solved-could-not-see-second-monitor-nvidia-graphics-card-a9cb67317288
 
