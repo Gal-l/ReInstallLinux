@@ -9,4 +9,5 @@ Addional Apps: Gmail desktop,noyepad++, pycharm, gnome-tweaks(for alt shift),zoo
 gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L']"
 
 for enternt check type lshw -C network
+  https://askubuntu.com/questions/1259947/cant-get-rtl8125b-working-on-20-04
 
