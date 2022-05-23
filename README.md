@@ -8,4 +8,5 @@ Addional Apps: Gmail desktop,noyepad++, pycharm, gnome-tweaks(for alt shift),zoo
 
 gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Alt>Shift_L']"
 
+for enternt check type lshw -C
 
